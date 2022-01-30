@@ -1,4 +1,4 @@
-package br.com.smartpark.controller;
+package br.com.smartpark.api.cadastro.controller;
 
 import io.quarkus.test.junit.NativeImageTest;
 
